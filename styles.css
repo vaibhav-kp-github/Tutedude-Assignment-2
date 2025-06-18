@@ -1,0 +1,24 @@
+/* .container{
+    min-width: 100vw;
+    min-height: 100vh;
+} */
+
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    /* background-color: brown; */
+    /* border: 10px double black; */
+    position: relative;
+
+}
